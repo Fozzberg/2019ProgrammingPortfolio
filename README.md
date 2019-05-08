@@ -10,4 +10,4 @@ Object oriented calculator with features including...
 
 ![Calculator](image url)
 
-Source cose for calulator: here
+[Source cose for calulator: here](url to source code)
