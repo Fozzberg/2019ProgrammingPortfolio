@@ -40,3 +40,14 @@ The purpose of this program is to make a screensaver for your computer. The line
 ![Screensaver](https://github.com/Fozzberg/2019ProgrammingPortfolio/blob/master/images/ScreenSaverPic.png)
 
 [Screensaver Code: Here](https://github.com/Fozzberg/2019ProgrammingPortfolio/tree/master/SourceCode/screen_saver)
+
+---
+
+## First Semester Spaceship Game
+#### Completed Dec, 2018
+
+This is a game in which you are a spaceship with omnidirectional movement and are trying to dodge Bullets and closing walls from the alien spaceship. You have three lives and can get more with powerups. 
+
+![Spaceship Game](https://github.com/Fozzberg/2019ProgrammingPortfolio/blob/master/images/SpaceShipGame.png)
+
+[Spaceship Code: Here](https://github.com/Fozzberg/2019ProgrammingPortfolio/tree/master/SourceCode/SpaceShooterB4)
