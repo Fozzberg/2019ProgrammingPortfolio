@@ -61,7 +61,7 @@ This is a game in which you are a spaceship with omnidirectional movement and ar
 ## Zoog
 #### Completed Sep, 2018
 
-sjKDV;kjsdbv;asDJKBV
+Explain
 
 ![Zoog](https://github.com/Fozzberg/2019ProgrammingPortfolio/blob/master/images/Zoog.png)
 
@@ -69,4 +69,13 @@ sjKDV;kjsdbv;asDJKBV
 
 ---
 
-## gg
+## Speed Converter
+#### Completed Oct, 2018
+
+Explain
+
+![Speed Converter](https://github.com/Fozzberg/2019ProgrammingPortfolio/blob/master/images/SpeedConverter.png)
+
+[Speed Converter Code: Here](https://github.com/Fozzberg/2019ProgrammingPortfolio/tree/master/SourceCode/SpeenConverter)
+
+---
