@@ -18,9 +18,11 @@
 ---
 
 ## Individual Projects
+
 ---
 
-## First Semester Calculator
+
+## Calculator
 #### Completed Nov, 2018
 
 The purpose of this application is a real functioning calculator. It has the 5 simple calculations as well as some more advanced ones such as square root, square function, percent function, sin, cosine, and tangent. A cool feature is the wood changing texture as you hover over it.
@@ -32,7 +34,8 @@ The purpose of this application is a real functioning calculator. It has the 5 s
 
 ---
 
-## First Semester Screensaver
+
+## Screensaver
 #### Completed Oct, 2018
 
 The purpose of this program is to make a screensaver for your computer. The lines randommly move arcoss the entire screen. All you have to do it import it into your computer and your done. In the code you can aslo edit the color, line size, line speed, etc. if you want.
@@ -43,7 +46,8 @@ The purpose of this program is to make a screensaver for your computer. The line
 
 ---
 
-## First Semester Spaceship Game
+
+## Spaceship Game
 #### Completed Dec, 2018
 
 This is a game in which you are a spaceship with omnidirectional movement and are trying to dodge Bullets and closing walls from the alien spaceship. You have three lives and can get more with powerups. 
@@ -51,3 +55,18 @@ This is a game in which you are a spaceship with omnidirectional movement and ar
 ![Spaceship Game](https://github.com/Fozzberg/2019ProgrammingPortfolio/blob/master/images/SpaceShipGame.png)
 
 [Spaceship Code: Here](https://github.com/Fozzberg/2019ProgrammingPortfolio/tree/master/SourceCode/SpaceShooterB4)
+
+---
+
+## Zoog
+#### Completed Sep, 2018
+
+sjKDV;kjsdbv;asDJKBV
+
+![Zoog](https://github.com/Fozzberg/2019ProgrammingPortfolio/blob/master/images/Zoog.png)
+
+[Zoog Code: Here](https://github.com/Fozzberg/2019ProgrammingPortfolio/tree/master/SourceCode/Zoog)
+
+---
+
+## gg
