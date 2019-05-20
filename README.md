@@ -17,7 +17,7 @@
 
 ---
 
-## Individual Projects
+# Individual Projects
 
 ---
 
@@ -79,3 +79,8 @@ Explain
 [Speed Converter Code: Here](https://github.com/Fozzberg/2019ProgrammingPortfolio/tree/master/SourceCode/SpeenConverter)
 
 ---
+
+# Group Project
+#### Completed May, 2019
+
+
